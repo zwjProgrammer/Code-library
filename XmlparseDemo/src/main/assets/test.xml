@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<School>
+    <Student school="北京大学">
+        <Name>张三</Name>
+        <Num>1006010033</Num>
+        <Classes>信管2</Classes>
+        <Address>北京</Address>
+    </Student>
+    <Student school="青岛大学">
+        <Name>李四</Name>
+        <Num>1006010033</Num>
+        <Classes>信管1</Classes>
+        <Address>青岛</Address>
+    </Student>
+    <Student school="济南大学">
+        <Name>王五</Name>
+        <Num>1006010044</Num>
+        <Classes>计科1</Classes>
+        <Address>济南</Address>
+    </Student>
+</School>
